@@ -1,0 +1,17 @@
+﻿  dllmain.cpp
+V:\Work\碩士\計算機視覺\OpencvDll\dllmain.cpp(100,28): warning C4244: '引數': 將 'float' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=int
+          ]
+V:\Work\碩士\計算機視覺\OpencvDll\dllmain.cpp(100,22): warning C4244: '引數': 將 'float' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=int
+          ]
+V:\Work\碩士\計算機視覺\OpencvDll\dllmain.cpp(262,5): warning C4273: 'UsingOpenCV::Functions::Initialize': 不一致的 DLL 連結
+V:\Work\碩士\計算機視覺\OpencvDll\OpencvDLL.h(20,39): message : 請參閱 'Initialize' 之前的定義
+V:\Work\碩士\計算機視覺\OpencvDll\dllmain.cpp(287,5): warning C4273: 'UsingOpenCV::Functions::Eye_On_Screan_Pos': 不一致的 DLL 連結
+V:\Work\碩士\計算機視覺\OpencvDll\OpencvDLL.h(23,41): message : 請參閱 'Eye_On_Screan_Pos' 之前的定義
+     正在建立程式庫 V:\Work\碩士\計算機視覺\OpencvDll\x64\Debug\OpencvDll.lib 和物件 V:\Work\碩士\計算機視覺\OpencvDll\x64\Debug\OpencvDll.exp
+  OpencvDll.vcxproj -> V:\Work\碩士\計算機視覺\OpencvDll\x64\Debug\OpencvDll.dll
